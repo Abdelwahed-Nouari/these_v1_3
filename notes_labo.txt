@@ -7,3 +7,15 @@ INTRODUCTION
 ------------
 Ce document contient mes notes sur l'application de l'intelligence 
 artificielle à la détection d'intrusions réseau.
+CONTEXTE ET PROBLÉMATIQUE
+--------------------------
+La cybersécurité est devenue un enjeu majeur. Selon le rapport 
+Cybersecurity Ventures 2024, les dommages liés à la cybercriminalité 
+devraient atteindre 10,5 trillions de dollars en 2025.
+
+Les méthodes traditionnelles (détection par signatures) montrent 
+leurs limites face aux attaques zero-day et aux malwares polymorphes.
+
+L'IA et le Deep Learning offrent des solutions prometteuses pour 
+détecter des patterns d'attaques inconnus et s'adapter dynamiquement 
+aux nouvelles menaces.
