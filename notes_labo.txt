@@ -17,5 +17,5 @@ Les méthodes traditionnelles (détection par signatures) montrent
 leurs limites face aux attaques zero-day et aux malwares polymorphes.
 
 L'IA et le Deep Learning offrent des solutions prometteuses pour 
-détecter des patterns d'attaques inconnus et s'adapter dynamiquement 
+détecter des patterns d'attaques inconnues et s'adapter dynamiquement 
 aux nouvelles menaces.
