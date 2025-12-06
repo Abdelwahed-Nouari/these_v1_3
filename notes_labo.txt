@@ -1,0 +1,9 @@
+Notes de Recherche - IA et Cybersécurité
+=========================================
+Auteur: Ahmed Benali
+Date de création: 5 décembre 2024
+
+INTRODUCTION
+------------
+Ce document contient mes notes sur l'application de l'intelligence 
+artificielle à la détection d'intrusions réseau.
